@@ -1,4 +1,7 @@
-## Hi there 👋
+## cd /home/fredericlam
+
+
+## cat projects
 
 <!--
 **fredericlam/fredericlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
